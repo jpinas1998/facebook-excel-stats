@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="logo">sj_logo.ico</file>
+        <file alias="export">export.png</file>
+        <file alias="search">search.png</file>
+    </qresource>
+</RCC>
